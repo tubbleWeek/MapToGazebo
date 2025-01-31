@@ -15,6 +15,6 @@ This will save the gazebo world as `DESIRED_NAME_OF_WORLD.sdf` which you can the
 
 ### Requirements
 
-This was developed using python version `3.11.1`
+This was developed using python version `3.11.1` and tested in Gazebo 11. I do not know if this `sdf` structure is compatible with other versions of Gazebo.
 
 You will need pyyaml, numpy, opencv-python, and argparse to run this script.
