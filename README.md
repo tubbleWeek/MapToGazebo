@@ -1,7 +1,7 @@
 # Map to Gazebo World
 
 This is a naive python script which takes in a nav_msgs/OccupancyGrid style map described by a YAML file and converts it to a gazebo world. This is not the most 
-efficient way to do so, but it is quick and simple to run.
+efficient or fasters way to do so, but it is simple to run.
 
 ### Usage
 
